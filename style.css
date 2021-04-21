@@ -1,0 +1,139 @@
+#logo { 
+	position: relative;
+	top: -650px;
+	left: 28px;
+}
+#logo2 {
+	position: relative;
+	top: -79px;
+	left: 1190px;
+	color: #FFFFFF;
+}
+#rectangle {
+    width: 1400px;
+    height: 130px;
+    background: linear-gradient(to bottom, #024b42, #00aea5);
+	position: relative;
+	top: -10px;
+	left: -10px;
+}
+#rectangle2 {
+    width: 1400px;
+    height: 489px;
+    background: linear-gradient(to top, #024b42, #00aea5);
+	position: relative;
+	top: -10px;
+	left: -10px;
+}
+#h3_1 { 
+text-shadow:
+    1px 1px 0 #595959,
+    1px -1px 0 #595959,
+    -1px 1px 0 #595959,
+    -1px -1px 0 #595959;
+ color:#ffffff;
+ position: relative;
+ top: -121px;
+ left: 463px;
+}
+#h3_2 { 
+ text-shadow:
+    1px 1px 0 #595959,
+    1px -1px 0 #595959,
+    -1px 1px 0 #595959,
+    -1px -1px 0 #595959;
+ color:#ffffff;
+ transition: all 1s;
+ position: relative;
+ top: -124px;
+ left: 863px;
+}
+#a1 {
+	1px 1px 0 #595959,
+    1px -1px 0 #595959,
+    -1px 1px 0 #595959,
+    -1px -1px 0 #595959;
+	color:#ffffff;
+	text-decoration: none;
+}
+#b1 { 
+ text-shadow:
+    1px 1px 0 #595959,
+    1px -1px 0 #595959,
+    -1px 1px 0 #595959,
+    -1px -1px 0 #595959;
+	position: relative;
+ font-size: 24px;
+ font-family: Ubuntu;
+ color: #ffffff;
+ position: relative;
+ top: -80px;
+ left: 44px;
+ line-height: 40px;
+}
+#h1_2 { 
+font-size: 50px;
+position: relative;
+top: -70px;
+left: 44px;
+font-family: Ubuntu Mono;
+}
+#logo3 { 
+      position: relative;
+	  top: -157px;
+	  left: 1000px;
+}
+#logo4 { 
+      position: relative;
+	  top: -392px;
+	  left: 138px;
+}
+#h4_2 { 
+  font-size: 30px;
+  position: relative;
+  top: -88px;
+  left: 435px;
+  font-family:Oswald;
+  background: #040404;
+  width: 370px;
+  height: 50px;
+  line-height: 50px;
+  box-shadow: -10px 0 0 #040404, 10px 0 0 #040404;
+  border-radius: 10px;
+  }
+#a2 { 
+color: #ffffff;
+text-decoration: none;
+}
+#rectangle3 { 
+	width: 1402px;
+    height: 800px;
+    background: #024b42;
+	position: relative;
+	top: -93px;
+	left: -40px;
+}
+#h5_3 {
+	position: relative;
+	top: -820px;
+	left: 10px;
+	font-size: 35px;
+	color: #ffffff;
+}
+#h5_4 {
+	position: relative;
+	top: -820px;
+	left: 10px;
+	font-size: 35px;
+	color: #ffffff;
+}
+#h5_5 {
+	position: relative;
+	top: -820px;
+	left: 10px;
+	font-size: 35px;
+	color: #ffffff;
+}
+#a3 {
+	color: #ffffff;
+}
